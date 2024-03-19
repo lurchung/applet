@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "小程序主页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

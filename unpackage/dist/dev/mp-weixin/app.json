@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/Home/Home",
+    "pages/person/person",
+    "pages/timetable/timetable",
+    "pages/register/register",
+    "pages/schedule/schedule",
+    "pages/new-schedule/new-schedule"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

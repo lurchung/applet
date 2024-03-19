@@ -1,0 +1,1 @@
+<view class="Home"><text selectable="true">111111111111</text><navigator url="/pages/person/person">个人信息</navigator></view>
