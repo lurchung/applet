@@ -3,7 +3,7 @@
 		{
 			"path": "pages/Home/Home",
 			"style": {
-				"navigationBarTitleText": "小程序主页",
+				"navigationBarTitleText": "主页",
 				"enablePullDownRefresh" : true
 			}
 		},
@@ -11,7 +11,7 @@
 			"path" : "pages/person/person",
 			"style" : 
 			{
-				"navigationBarTitleText" : "个人信息",
+				"navigationBarTitleText" : "个人",
 				"enablePullDownRefresh" : true
 			}
 		},
@@ -54,5 +54,22 @@
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},
-	"uniIdRouter": {}
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "black",
+		"list": [
+			{
+				"text":"主页",
+				"pagePath":"pages/Home/Home",
+				"iconPath": "static/images/home.png",
+				"selectedIconPath": "static/images/home-h.png"
+			},
+			{
+				"text":"个人",
+				"pagePath":"pages/person/person",
+				"iconPath": "static/images/person.png",
+				"selectedIconPath": "static/images/person-h.png"
+			}
+		]
+	}
 }
