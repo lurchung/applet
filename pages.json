@@ -45,15 +45,24 @@
 			"style" : 
 			{
 				"navigationBarTitleText" : "新建日程",
-				"enablePullDownRefresh" : true
+				"enablePullDownRefresh" : true,
+				"backgroundColorContent":"#f1f2f6"
+			}
+		},
+		{
+			"path" : "pages/register/zhuce/zhuce",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor":"#f1f2f6",
+		"backgroundColorContent": "#f1f2f6"
 	},
 	"uniIdRouter": {},
 	"tabBar": {

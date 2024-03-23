@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 <view class="main">
 	
 	<view class="banner">
@@ -8,6 +9,13 @@
 								<img :src="item.url" alt="" width="100%" height="120px">
 							</swiper-item>
 						</swiper>
+=======
+	<view class="Home">
+		<navigator url="/pages/register/register">登录</navigator>
+		<navigator url="/pages/schedule/schedule">日程</navigator>
+		<navigator url="/pages/timetable/timetable">课表页</navigator>
+		
+>>>>>>> d7e9b5cfc58e29b1fd9db30ce44e5241d28a95a9
 	</view>
 	
 	<view class="Home">
