@@ -46,6 +46,14 @@
 				"navigationBarTitleText" : "新建日程",
 				"enablePullDownRefresh" : true
 			}
+		},
+		{
+			"path" : "pages/register/zhuce/zhuce",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"globalStyle": {
