@@ -9,6 +9,7 @@
 	   <view class="schedule-name">
 		   <input type="text" value="日程名称" />
 	   </view>
+	   <view></view>
 	</view>
 </template>
 
