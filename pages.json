@@ -4,7 +4,8 @@
 			"path": "pages/Home/Home",
 			"style": {
 				"navigationBarTitleText": "主页",
-				"enablePullDownRefresh" : true
+				"enablePullDownRefresh" : true,
+				"navigationBarBackgroundColor": "rgba(54, 119, 183)"
 			}
 		},
 		{
