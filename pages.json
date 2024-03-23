@@ -47,6 +47,14 @@
 				"enablePullDownRefresh" : true,
 				"backgroundColorContent":"#f1f2f6"
 			}
+		},
+		{
+			"path" : "pages/register/zhuce/zhuce",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"globalStyle": {
